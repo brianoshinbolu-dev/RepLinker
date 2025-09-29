@@ -7,7 +7,7 @@ import { Suspense } from "react"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "TechWave - AI-Powered Commission Sales Force",
+  title: "RepLinker - Smart Connections. Faster Closings",
   description: "Connect businesses with motivated sales reps. Pay only on commission.",
   generator: "v0.app",
 }
